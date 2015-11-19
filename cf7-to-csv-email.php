@@ -74,7 +74,7 @@ function ldcce_no_cf7_warning() {
 function ldcce_display_warning( $message ) {
 	?>
 	<div class="error">
-		<p><strong>Limelight - Contact Form 7 to CSV Email:</strong></p>
+		<p><strong>Contact Form 7 to CSV via Email:</strong></p>
 		<?php echo wpautop($message); ?>
 	</div>
 	<?php
