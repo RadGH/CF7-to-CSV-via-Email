@@ -1,4 +1,4 @@
-# CF7-to-CSV-via-Email
+# Contact Form 7 to CSV via Email
 
 (Requires Advanced Custom Fields PRO)
 
