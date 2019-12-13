@@ -48,6 +48,7 @@ function ldcce_initialize() {
 		return;
 	}
 
+	include( LDCCE_PATH . '/fields/settings.php' );
 	include( LDCCE_PATH . '/includes/options.php' );
 	include( LDCCE_PATH . '/includes/contact-form.php' );
 	include( LDCCE_PATH . '/includes/csv.php' );
